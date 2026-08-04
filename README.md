@@ -1,4 +1,3 @@
-Magic: the Gathering Arena (MTGA) is a game implementing many features from the trading card game MTG.
 <details>
 <summary><h3>Economy</h3></summary>
 <details>
