@@ -27,7 +27,8 @@ Gems can be earned and spent on events. Notably they can purchase the season pas
 <summary>What should I buy?</summary>
 
 > For cash transactions see 'Gems.'  
-The season pass costs 3400 gems (or cash). It has many rewards for regular players and with enough time remaining it's widely considered a 'good deal.'  
+The season pass costs 3400 gems (or cash). It has many rewards for regular players and with enough time remaining it's widely considered a 'good deal.'
+Starter Deck Duels allows you to play free decks against other free decks. It can be a good place to practice before committing any of your resources.  
 There are three other types of goods: Event entry, packs, and cosmetics. MTGA premade decks are expensive.  
 Events have rewards that increase as you win games, but it is difficult to earn more than the entry fee.  
 Regular packs cost 1000g and every tenth pack purchased (Standard legal) gives a golden pack that contains six rare cards. Mythic packs are generally to be avoided and alchemy packs contain cards exclusive to the MTGA formats Alchemy, Historic, and Timeless.  
@@ -43,10 +44,11 @@ The Daily Deals section of the shop occasionally contains deals such as Draft To
 <summary><h3>I want to build a deck!</h3></summary>
 
 Awesome! This is one of the best features of a trading card game.  
-The best economy play you can make is to work out what type of gameplay you prefer and which format to focus on. If you know what you want, noone can stop you.  
+The economy play is to work out what type of gameplay you prefer and which format to focus on. If you know what you want, noone can stop you.  
 There are a few potential issues:
 > Evaluating cards and their synergies can be hard.  
-> The interaction between the deck you build and what other people are playing, the 'metagame,' is another layer of complexity.  
+> The interaction between the deck you build and what other people are playing, the 'metagame,' is another layer of complexity.
+> Standard and Alchemy lose cards at the start of the year. 'Rotating formats' sometimes invalidate a deck this way.  
 Be aware that building a strong deck is hard. There's no need to play competitively, but if you do then there's no shame in copying a deck that other players have refined (netdecking).  
 
 </details>
