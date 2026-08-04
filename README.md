@@ -33,8 +33,8 @@ Starter Deck Duels allows you to play free decks against other free decks. It ca
 There are three other types of goods: Event entry, packs, and cosmetics. MTGA premade decks are expensive.  
 Events have rewards that increase as you win games, but it is difficult to earn more than the entry fee.  
 Regular packs cost 1000g and every tenth pack purchased (Standard legal) gives a golden pack that contains six rare cards. Mythic packs are generally to be avoided and alchemy packs contain cards exclusive to the MTGA formats Alchemy, Historic, and Timeless.  
-Cosmetics are broken into categories: Pets, Phrases, Emotes, Card Backs, Avatars, and Card Styles. Specific items are often only available for a limited time.  
-The Daily Deals section of the shop occasionally contains deals such as Draft Tokens discounted from the regular 10k gold. It's a good idea to save a little gold up in case something you want shows up in the shop.  
+Cosmetics are broken into categories: Pets, Phrases, Emotes, Card Backs, Avatars, and Card Styles. Specific items are often only available for a limited time. None of these impact gameplay.  
+The Daily Deals section of the shop occasionally contains deals such as Draft Tokens discounted from the regular 10k gold. It's a good idea to save a little gold in case something you want shows up in the shop.  
 
 </details>
 
