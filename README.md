@@ -48,7 +48,8 @@ The economy play is to work out what type of gameplay you prefer and which forma
 There are a few potential issues:
 > Evaluating cards and their synergies can be hard.  
 > The interaction between the deck you build and what other people are playing, the 'metagame,' is another layer of complexity.
-> Standard and Alchemy lose cards at the start of the year. 'Rotating formats' sometimes invalidate a deck this way.  
+> Standard and Alchemy lose cards at the start of the year. 'Rotating formats' sometimes invalidate a deck this way.
+
 Be aware that building a strong deck is hard. There's no need to play competitively, but if you do then there's no shame in copying a deck that other players have refined (netdecking).  
 
 </details>
