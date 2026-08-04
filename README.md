@@ -27,8 +27,8 @@ Gems can be earned from and spent on events. Notably they can purchase the maste
 <details>
 <summary>What should I buy?</summary>
 
-> For cash transactions see 'Gems.'  
-The mastery pass costs 3400 gems (or cash). It has many rewards for frequent players and given enough time before it ends it's considered a good deal.  
+> For cash transactions see 'Gems.' Preorder bundles differ in content.
+The mastery pass costs 3400 gems (or cash with the pass bundle). It has many rewards for frequent players and given enough time before it ends it's considered a good deal.  
 Starter Deck Duels allows you to play free decks against other free decks. It can be a good place to practice before committing any of your resources.  
 There are three other types of goods: Event entry, packs, and cosmetics. MTGA premade decks are expensive.  
 Events have rewards that increase as you win games, but it is difficult to earn more than the entry fee.  
