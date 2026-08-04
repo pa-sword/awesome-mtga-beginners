@@ -1,3 +1,5 @@
+New players have questions, I hope this answers a few.
+
 <details>
 <summary><h3>Economy</h3></summary>
 <details>
