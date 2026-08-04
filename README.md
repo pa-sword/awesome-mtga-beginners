@@ -52,3 +52,16 @@ There are a few potential issues:
 Be aware that building a strong deck is hard. There's no need to play competitively, but if you do then there's no shame in copying a deck that other players have refined (netdecking).  
 
 </details>
+<details>
+<summary><h3>How can I improve?</h3></summary>
+My advice? Learn the mechanics, consider all your options, learn the best timing to take an action, and try to read your opponent.  
+There are many resources to help from different angles:  
+> Practice  
+Ask questions  
+Watch other players  
+Check tournament results  
+Capture and review your gameplay  
+
+[Review card data](17lands.com)  
+
+</details>
