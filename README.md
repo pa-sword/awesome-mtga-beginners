@@ -13,7 +13,7 @@ These were previously codes players could enter for items.
 <summary>Where to get Gold?</summary>
 
 > Gold is the 'free' currency of MTGA. It is obtained by completing quests and winning games daily.  
-Quests give 500 or 750 gold and one quest can be 'refreshed' each day to replace an open quest with a new one.  
+Daily quests give 500 or 750 gold and one quest can be 'refreshed' each day to replace an open quest with a new one.  
 Winning up to 15 games in a day rewards gold, up to a total of 750.  
 
 </details>
@@ -21,14 +21,14 @@ Winning up to 15 games in a day rewards gold, up to a total of 750.
 <summary>What are Gems?</summary>
   
 > Gems are the 'premium' currency of MTGA. They can be purchased directly or in bundles. The two one-time bundles are the biggest bang for your buck.  
-Gems can be earned and spent on events. Notably they can purchase the season pass, entry to competitive events, and entry to events where the maximum reward includes real cards.  
+Gems can be earned and spent on events. Notably they can purchase the mastery pass, entry to competitive events, and entry to events where the rewards may include real cards.  
 
 </details>
 <details>
 <summary>What should I buy?</summary>
 
 > For cash transactions see 'Gems.'  
-The season pass costs 3400 gems (or cash). It has many rewards for regular players and with enough time remaining it's widely considered a 'good deal.'  
+The season pass costs 3400 gems (or cash). It has many rewards for regular players and with enough time remaining it's widely considered a good deal.  
 Starter Deck Duels allows you to play free decks against other free decks. It can be a good place to practice before committing any of your resources.  
 There are three other types of goods: Event entry, packs, and cosmetics. MTGA premade decks are expensive.  
 Events have rewards that increase as you win games, but it is difficult to earn more than the entry fee.  
