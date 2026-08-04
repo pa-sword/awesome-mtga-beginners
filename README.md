@@ -57,7 +57,7 @@ Be aware that building a strong deck is hard. There's no need to play competitiv
 <details>
 <summary><h3>How can I improve?</h3></summary>
 
-My advice? Learn the mechanics, consider all your options, learn 'combat math' and the best timing to take an action, and try to read your opponent.  
+My advice? Learn the mechanics, consider all your options, learn 'combat math,' the best timing to take an action, and try to read your opponent.  
 There are many angles you can explore:  
 > Practice  
 Ask questions - preferably with a screenshot  
