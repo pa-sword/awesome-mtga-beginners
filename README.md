@@ -64,12 +64,12 @@ Ask questions - preferably with a screenshot
 Watch other players  
 Check tournament results  
 Capture and review your gameplay  
-[Review draft card data](17lands.com)
+[Review draft card data](17lands.com)  
 
 Game resources:
-> Cards, Mana, Life
-Card advantage comes from drawing cards, or using one card to deal with your opponents.
-Mana is the core resource. It's critical to a deck to consistently play lands. If you can't, you may be stuck with cards you cannot use. Mana utilization is also important: If you don't use your mana before your next turn you lose it.
-Life is a resource. In combat it allows you to ignore creatures attacking you, and some cards ask you to pay life as a cost. It's said that the only point of life that matters is the last one.
+> Cards, Mana, Life  
+Card advantage comes from drawing cards, or using one card to deal with your opponents.  
+Mana is the core resource. It's critical to a deck to consistently play lands. If you can't, you may be stuck with cards you cannot use. Mana utilization is also important: If you don't use your mana before your next turn you lose it.  
+Life is a resource. In combat it allows you to ignore creatures attacking you, and some cards ask you to pay life as a cost. It's said that the only point of life that matters is the last one.  
 
 </details>
