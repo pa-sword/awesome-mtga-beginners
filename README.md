@@ -28,9 +28,8 @@ Gems can be earned from and spent on events. Notably they can purchase the maste
 <summary>What should I buy?</summary>
 
 <details>
-<summary>I mean packs.</summary>
-
->If you choose to play a rotating format then be aware of how long a set will [remain legal](whatsinstandard.com)  
+><summary>I mean packs.</summary>  
+If you choose to play a rotating format then be aware of how long a set will [remain legal](whatsinstandard.com)  
 There are sets designed around nonrotating formats. Pioneer Masters and Modern Horizons 3 are stronger than most other sets.  
 Be aware that non standard-legal sets do not give golden pack progress. Gold packs give standard legal cards so this distinction may not matter to you.  
 There are sets that have cards with a larger impact on constructed play. Opening packs does not guarantee chase cards, and it has been said that opening a set with good rare lands is the way to go. Unless you stick to one specific color pair rare lands are very useful. The difference between a deck that uses rare lands to produce two or more colors of mana (color fixing) and one that doesn't will come up in regular play.  
