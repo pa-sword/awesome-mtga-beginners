@@ -29,6 +29,7 @@ Gems can be earned from and spent on events. Notably they can purchase the maste
 
 <details>
 </br>
+
 <summary>I mean packs.</summary>  
 
 >If you choose to play a rotating format then be aware of how long a set will [remain legal](whatsinstandard.com)  
