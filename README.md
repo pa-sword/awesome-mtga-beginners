@@ -29,7 +29,7 @@ Gems can be earned from and spent on events. Notably they can purchase the maste
 
 </br>
 <details>
-<summary>I mean packs.</summary>  
+<summary><h5>I mean packs.</h5></summary>
 
 >If you choose to play a rotating format then be aware of how long a set will [remain legal](https://www.whatsinstandard.com)  
 There are sets designed around nonrotating formats. Pioneer Masters and Modern Horizons 3 are stronger than most other sets.  
