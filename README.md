@@ -82,7 +82,12 @@ Capture and review your gameplay
 Game resources:
 > Cards, Mana, Life  
 Card advantage comes from drawing cards, or using a card to deal with your opponent's. Running out of cards in hand is called "Topdeck mode" and can easily decide the game.  
-Mana is the core resource. It's critical to a deck to consistently play lands. If you can't, you may be stuck with cards you cannot use. Mana utilization is also important: If you don't use your mana before your next turn you lose it.  
+Mana is the core resource. It's critical to a deck to consistently play lands. If you can't, you may be stuck with cards you cannot use. Mana utilization is also important: If you don't use your mana before your next turn you lose it. 'On curve' means playing a card on the first turn it could be played without missing a land for turn.  
 Life is a resource. In combat it allows you to ignore creatures attacking you, and some cards ask you to pay life as a cost. It's said that the only point of life that matters is the last one.  
+
+> How to mulligan?  
+This will vary by deck and format but generally you want a hand that can play cards without having to draw into them.  
+Personally I want two to four lands and a spell I can cast without relying on drawing additional land.  
+The obvious tradeoff is that you lose a card when you take a mulligan (except in Brawl). If the hand has one too many lands you'll effectively be losing one by taking a mulligan.  
 
 </details>
