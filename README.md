@@ -58,7 +58,7 @@ The Daily Deals section of the shop occasionally contains deals such as Draft To
 Awesome! This is one of the best features of a trading card game.  
 The economy play is to work out what type of gameplay you prefer and which format to focus on. If you know what you want, noone can stop you.  
 There are a few potential issues:
-> Evaluating cards and their synergies can be hard.  
+> Evaluating cards and their synergies can be difficult.  
 > The interaction between the deck you build and what other people are playing, the 'metagame,' is another layer of complexity.
 > Standard and Alchemy lose cards near the start of the year. 'Rotating formats' sometimes invalidate a deck this way.
 
@@ -68,7 +68,9 @@ Be aware that building a strong deck is hard. There's no need to play competitiv
 <details>
 <summary><h3>How can I improve?</h3></summary>
 
-My advice? Learn the mechanics, consider all your options, learn 'combat math,' the best timing to take an action, and try to read your opponent. Don't put all your eggs in one basket! Flashy plays are frequently outperformed by quiet ones: Playing for inevitability limits your opponent's options.  
+My advice? Learn the mechanics, consider all your options, learn 'combat math,' the best timing to take an action, and try to read your opponent.  
+Determine which player needs to play defensively.  
+Don't put all your eggs in one basket! Flashy plays are frequently outperformed by quiet ones: Playing for inevitability limits your opponent's options.  
 There are many angles you can explore:  
 > Practice  
 Ask questions - preferably with a screenshot  
