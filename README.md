@@ -91,6 +91,10 @@ The 'color pie' refers to mechanics specific to each color of mana, for example 
 
 > Life is a resource. In combat it allows you to ignore creatures attacking you, and some cards ask you to pay life as a cost. It's said that the only point of life that matters is the last one.  
 
+I'm getting too many/few lands!  
+> This is the largest drawback of MTG being the first TCG. It is partially remedied with the mulligan and motivates the guideline that roughly 2/5ths of a deck be lands (or for 17 lands in limited).  
+Drawing into too many lands is usually worse than too few, the difference being between not having anything to play versus not having enough land to play the available cards.  
+
 How to mulligan?  
 >This will vary by deck and format but generally you want a hand that can play cards without having to draw into them.  
 Personally I want two to four lands and a spell I can cast without relying on drawing additional land.  
