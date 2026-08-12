@@ -89,7 +89,12 @@ The primary resources are Cards, Mana, and Life
 Mana utilization is also important: If you don't use your mana before your next turn you lose it. Playing 'on curve' means playing cards on the first turn they could be played without missing a land for turn.  
 The 'color pie' refers to mechanics specific to each color of mana, for example blue specializes in countermagic and card draw while red has direct damage, also known as 'burn,' and creatures with haste. There are overlaps but normally each color comes with a tradeoff: Black generally struggles to remove enchantments, which is more accessible for green and white.  
 
-> Life is a resource. In combat it allows you to ignore creatures attacking you, and some cards ask you to pay life as a cost. It's said that the only point of life that matters is the last one.  
+> Life is a resource. In combat it allows you to ignore creatures attacking you, and some cards ask you to pay life as a cost. It's said that the only point of life that matters is the last one.
+
+Time is also a resource.  
+> With few exceptions there are only 'sorcery' and 'instant' speeds, so named after card types.  
+Sorceries require a main phase on your turn. There's one before and one after combat.  
+Instants are much more versatile because 'combat tricks' can be played to change the outcome of combat, played in response to another spell or ability, or played during your opponent's turn to keep your options open and develop a resource just before your next turn starts and your lands untap.  
 
 <details>
 <summary>I'm getting too many/few lands!</summary>
