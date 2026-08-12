@@ -91,7 +91,7 @@ The 'color pie' refers to mechanics specific to each color of mana, for example 
 
 > Life is a resource. In combat it allows you to ignore creatures attacking you, and some cards ask you to pay life as a cost. It's said that the only point of life that matters is the last one.
 
-Time is also a resource.  
+Timing matters:  
 > With few exceptions there are only 'sorcery' and 'instant' speeds, so named after card types.  
 Sorceries require a main phase on your turn. There's one before and one after combat.  
 Instants are much more versatile because they can be played as 'combat tricks' to change the outcome of combat, played in response to another spell or ability, or played during your opponent's turn to keep your options open and develop a resource just before your next turn starts and your lands untap.  
