@@ -91,6 +91,10 @@ The 'color pie' refers to mechanics specific to each color of mana, for example 
 
 > Life is a resource. In combat it allows you to ignore creatures attacking you, and some cards ask you to pay life as a cost. It's said that the only point of life that matters is the last one.
 
+One secondary resource is 'tempo.'  
+> This roughly refers to cards that interfere with the board state. Tapping a creature can prevent it from attacking or blocking. Returning a creature to its owner's hand can do the same, with the added benefit that your opponent has to spend mana to get it back.  
+Note that this kind of effect typically loses card advantage.  
+
 Timing matters:  
 > With few exceptions there are only 'sorcery' and 'instant' speeds, so named after card types.  
 You can play sorceries during either of your main phases, which are immediately before or after your combat phase.  
@@ -99,7 +103,7 @@ Instants are much more versatile because they can be played as 'combat tricks' t
 <details>
 <summary>I'm getting too many/few lands!</summary>
 
-> This is the largest drawback of MTG being the first TCG. It is partially remedied with the mulligan and motivates the guideline that roughly 2/5ths of a deck be lands (or for 17 lands in limited).  
+> This is the largest drawback of MTG being the first TCG. It is partially remedied with the mulligan and motivates the guideline that 2/5ths of a deck be lands (or for 17 lands in limited).  
 Drawing into too many lands is usually worse than too few, the difference being between not having anything to play versus having cards available after eventually drawing a few lands.  
 The cases where you have enough land but can't produce mana of the color you need is where rare lands shine. Cards that provide more than one color of mana, 'mana fixing,' have a quiet but significant impact on your options and can decide the game.  
 
