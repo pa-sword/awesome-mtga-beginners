@@ -62,7 +62,7 @@ There are a few potential issues:
 > The interaction between the deck you build and what other people are playing, the 'metagame,' is another layer of complexity.
 > Standard and Alchemy lose cards near the start of the year. 'Rotating formats' sometimes invalidate a deck this way.
 
-Be aware that building a strong deck is hard. There's no need to play competitively, but if you do then there's no shame in copying a deck that other players have refined (called netdecking).  
+Be aware that building a strong deck is hard. There's no need to play competitively, but if you do then there's no shame in copying a deck that other players have refined.  
 
 </details>
 <details>
