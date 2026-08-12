@@ -84,7 +84,7 @@ Game resources:
 Card advantage comes from drawing cards, or using a card to deal with your opponent's. Running out of cards in hand is called 'Topdeck mode' and can easily decide the game.  
 Mana is the core resource. It's critical to a deck to consistently play lands. If you can't, you may be stuck with cards you cannot use.  
 Mana utilization is also important: If you don't use your mana before your next turn you lose it. Playing 'on curve' means playing cards on the first turn they could be played without missing a land for turn.  
-The 'color pie' refers to mechanics specific to each color of mana, for example blue specializes in countermagic and card draw while red has direct damage, also known as 'burn,' and creatures with haste. There are overlaps but generally each color comes with a tradeoff; black generally struggles to remove enchantments, which is more accessible for green and white.  
+The 'color pie' refers to mechanics specific to each color of mana, for example blue specializes in countermagic and card draw while red has direct damage, also known as 'burn,' and creatures with haste. There are overlaps but normally each color comes with a tradeoff; black generally struggles to remove enchantments, which is more accessible for green and white.  
 Life is a resource. In combat it allows you to ignore creatures attacking you, and some cards ask you to pay life as a cost. It's said that the only point of life that matters is the last one.  
 
 How to mulligan?  
