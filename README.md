@@ -79,9 +79,11 @@ Check tournament results
 Capture and review your gameplay  
 [Review draft card data](17lands.com)  
 
-Game resources:
-> Cards, Mana, Life  
-Card advantage comes from drawing cards, or using a card to deal with your opponent's. Running out of cards in hand is called 'Topdeck mode' and can easily decide the game.  
+Game resources:  
+
+The primary resources are Cards, Mana, and Life  
+
+> Card advantage comes from drawing cards, or using a card to deal with your opponent's. Running out of cards in hand is called 'Topdeck mode' and can easily decide the game.  
 
 > Mana is the core resource. It's critical to a deck to consistently play lands. If you can't, you may be stuck with cards you cannot use.  
 Mana utilization is also important: If you don't use your mana before your next turn you lose it. Playing 'on curve' means playing cards on the first turn they could be played without missing a land for turn.  
