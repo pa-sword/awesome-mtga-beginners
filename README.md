@@ -43,7 +43,7 @@ The mastery pass costs 3400 gems (or cash with the pass bundle). It has many rew
 Starter Deck Duels allows you to play free decks against other free decks. It can be a good place to practice before committing any of your resources.  
 There are three other types of goods: Event entry, packs, and cosmetics. MTGA premade decks are comparatively expensive.  
 Events have rewards that increase as you win games, but it is difficult to earn more than the entry fee.  
-Regular packs cost 1000g and every tenth pack purchased (Standard legal) gives a golden pack that contains six rare cards. Mythic packs are generally to be avoided and alchemy packs contain cards exclusive to the MTGA formats Alchemy, Historic, and Timeless. Every sixth pack opened also awards a rare or mythic wildcard and an uncommon one.  
+Regular packs cost 1000g and every tenth pack purchased (Standard legal) gives a golden pack that contains six rare cards. Mythic packs are to be avoided and alchemy packs contain cards exclusive to the MTGA formats Alchemy, Historic, and Timeless. Every sixth pack opened also awards a rare or mythic wildcard and an uncommon one.  
 Cosmetics are broken into categories: Pets, Phrases, Emotes, Card Backs, Avatars, and Card Styles. Specific items are often only available for a limited time. None of these impact gameplay.  
 The Daily Deals section of the shop occasionally contains deals such as Draft Tokens discounted from the regular 10k gold. It's a good idea to save a little gold in case something you want shows up in the shop.  
 
@@ -87,7 +87,7 @@ The primary resources are Cards, Mana, and Life.
 
 > Mana is the core resource. It's critical to a deck to consistently play lands. If you can't, you may be stuck with cards you cannot use.  
 Mana utilization is also important: If you don't use your mana before your next turn you lose it. Playing 'on curve' means playing cards on the first turn they could be played without missing a land for turn.  
-The 'color pie' refers to mechanics specific to each color of mana, for example blue specializes in countermagic and card draw while red has direct damage, also known as 'burn,' and creatures with haste. There are overlaps but normally each color comes with a tradeoff: Black generally struggles to remove enchantments, which is more accessible for green and white.  
+The 'color pie' refers to mechanics specific to each color of mana, for example blue specializes in countermagic and card draw while red has direct damage, also known as 'burn,' and creatures with haste. There are overlaps but, barring exceptions, each color comes with a tradeoff: Black struggles to remove enchantments, which is more accessible for green and white.  
 
 > Life is a resource. In combat it allows you to ignore creatures attacking you, and some cards ask you to pay life as a cost. It's said that the only point of life that matters is the last one.
 
