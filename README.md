@@ -41,7 +41,7 @@ There are sets that have cards with a larger impact on constructed play. Opening
 > For cash transactions see 'Gems.' Preorder bundles differ in content.
 The mastery pass costs 3400 gems (or cash with the pass bundle). It has many rewards for frequent players and given enough time before it ends it's considered a good deal.  
 Starter Deck Duels allows you to play free decks against other free decks. It can be a good place to practice before committing any of your resources.  
-There are three other types of goods: Event entry, packs, and cosmetics. MTGA premade decks are expensive.  
+There are three other types of goods: Event entry, packs, and cosmetics. MTGA premade decks are comparatively expensive.  
 Events have rewards that increase as you win games, but it is difficult to earn more than the entry fee.  
 Regular packs cost 1000g and every tenth pack purchased (Standard legal) gives a golden pack that contains six rare cards. Mythic packs are generally to be avoided and alchemy packs contain cards exclusive to the MTGA formats Alchemy, Historic, and Timeless. Every sixth pack opened also awards a rare or mythic wildcard and an uncommon one.  
 Cosmetics are broken into categories: Pets, Phrases, Emotes, Card Backs, Avatars, and Card Styles. Specific items are often only available for a limited time. None of these impact gameplay.  
