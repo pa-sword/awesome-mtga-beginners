@@ -96,6 +96,7 @@ The 'color pie' refers to mechanics specific to each color of mana, for example 
 
 > This is the largest drawback of MTG being the first TCG. It is partially remedied with the mulligan and motivates the guideline that roughly 2/5ths of a deck be lands (or for 17 lands in limited).  
 Drawing into too many lands is usually worse than too few, the difference being between not having anything to play versus having cards available after eventually drawing a few lands.
+The cases where you have enough land but can't produce mana of the color you need is where rare lands shine. Cards that provide more than one color of mana, 'mana fixing,' have a quiet but significant impact on your options and can decide the game.  
 
 </details>
 
