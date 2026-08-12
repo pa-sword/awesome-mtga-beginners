@@ -94,7 +94,7 @@ The 'color pie' refers to mechanics specific to each color of mana, for example 
 Time is also a resource.  
 > With few exceptions there are only 'sorcery' and 'instant' speeds, so named after card types.  
 Sorceries require a main phase on your turn. There's one before and one after combat.  
-Instants are much more versatile because 'combat tricks' can be played to change the outcome of combat, played in response to another spell or ability, or played during your opponent's turn to keep your options open and develop a resource just before your next turn starts and your lands untap.  
+Instants are much more versatile because they can be played as 'combat tricks' to change the outcome of combat, played in response to another spell or ability, or played during your opponent's turn to keep your options open and develop a resource just before your next turn starts and your lands untap.  
 
 <details>
 <summary>I'm getting too many/few lands!</summary>
