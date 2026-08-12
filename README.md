@@ -93,7 +93,7 @@ The 'color pie' refers to mechanics specific to each color of mana, for example 
 
 Timing matters:  
 > With few exceptions there are only 'sorcery' and 'instant' speeds, so named after card types.  
-Sorceries require a main phase on your turn. There's one before and one after combat.  
+You can play sorceries during either of your main phases, which are immediately before or after your combat phase.  
 Instants are much more versatile because they can be played as 'combat tricks' to change the outcome of combat, played in response to another spell or ability, or played during your opponent's turn to keep your options open and develop a resource just before your next turn starts and your lands untap.  
 
 <details>
