@@ -82,7 +82,7 @@ Capture and review your gameplay
 [Review draft card data](17lands.com)  
 
 <details>
-<summary>Game resources:</summary>
+<summary>Game resources</summary>
 
 The primary resources are Cards, Mana, and Life.  
 
