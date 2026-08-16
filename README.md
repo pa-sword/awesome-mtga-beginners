@@ -68,7 +68,7 @@ Be aware that building a strong deck is hard. There's no need to play competitiv
 <details>
 <summary><h3>How can I improve?</h3></summary>
 
-My advice? Learn the mechanics, consider all your options, learn 'combat math,' the best timing to take an action, and try to read your opponent.  
+My advice? Learn the mechanics, consider all your options, learn 'combat math,' the best timing to take an action, and try to read your opponent for context clues.  
 Identifying the opponent's deck quickly can tell you what you need to play around.  
 Determine which player needs to play defensively.  
 It could be called a cheap trick, but at least be aware of the 'bump check.' A player can pass priority in order to test their opponent's timing. If there's a delay before moving to the next step then that opponent has instant speed actions.  
@@ -81,7 +81,8 @@ Check tournament results
 Capture and review your gameplay  
 [Review draft card data](17lands.com)  
 
-Game resources:  
+<details>
+<summary>Game resources:</summary>
 
 The primary resources are Cards, Mana, and Life.  
 
@@ -102,6 +103,7 @@ Timing matters:
 You can play sorceries during either of your main phases, which are immediately before or after your combat phase.  
 Instants are much more versatile because they can be played as 'combat tricks' to change the outcome of combat, played in response to another spell or ability, or played during your opponent's turn to keep your options open and develop a resource just before your next turn starts and your lands untap.  
 
+</details>
 <details>
 <summary>I'm getting too many/few lands!</summary>
 
