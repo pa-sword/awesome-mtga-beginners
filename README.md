@@ -71,7 +71,7 @@ Be aware that building a strong deck is hard. There's no need to play competitiv
 My advice? Learn the mechanics, consider all your options, learn 'combat math,' the best timing to take an action, and try to read your opponent for context clues.  
 Identifying the opponent's deck quickly can tell you what you need to play around.  
 Determine which player needs to play defensively.  
-It could be called a cheap trick, but at least be aware of the 'bump check.' A player can pass priority in order to test their opponent's timing. If there's a delay before moving to the next step then that opponent has instant speed actions.  
+It could be called a cheap trick, but at least be aware of the 'bump check.' A player can pass priority in order to test their opponent's timing. If there's a delay before moving to the next step then that opponent has instant speed actions. One can manually take priority to bluff an action but it's not so easy to bluff no actions available when there is one.  
 Don't put all your eggs in one basket! Flashy plays are frequently outperformed by quiet ones: Playing for inevitability limits your opponent's options.  
 There are many angles you can explore:  
 > Practice  
