@@ -85,7 +85,7 @@ Capture and review your gameplay
 <details>
 <summary>Game resources</summary>
 
-The primary resources are Cards, Mana, and Life. The impact of each resource can vary largely by format, I am addressing constructed.  
+The primary resources are Cards, Mana, and Life. The impact of each resource can vary largely by format.  
 
 > Card advantage comes from drawing cards, or using a card to deal with your opponent's. Running out of cards in hand is called 'Topdeck mode' and can easily decide the game.  
 
@@ -97,7 +97,7 @@ The 'color pie' refers to mechanics specific to each color of mana, for example 
 
 One secondary resource is 'Tempo.'  
 > This roughly refers to cards that interfere with the board state. Tapping a creature can prevent it from attacking or blocking. Returning a creature to its owner's hand can do the same, with the added benefit that your opponent has to spend mana to get it back.
-> Effects that trade material such as a card saying 'Destroy target creature' can trade for higher cost cards. Spending this type of effect early is sometimes wasteful. This is why many decks play 'soft removal' cards that have restrictions on use but cost less mana.  
+> Effects that trade material such as a card saying 'Destroy target creature' can remove higher cost cards. Spending this type of effect on small creatures can be a loss in tempo. This is why many constructed decks play such cards that have restrictions on use but cost less.  
 Note that this kind of effect typically loses card advantage.  
 
 Timing matters:  
