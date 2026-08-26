@@ -97,8 +97,8 @@ The 'color pie' refers to mechanics specific to each color of mana, for example 
 
 One secondary resource is 'Tempo.'  
 > This roughly refers to cards that interfere with the board state. Tapping a creature can prevent it from attacking or blocking. Returning a creature to its owner's hand can do the same, with the added benefit that your opponent has to spend mana to get it back.  
-> Effects that trade material such as a card saying 'Destroy target creature' can remove higher cost cards. Spending this type of effect on small creatures can be a loss in tempo. This is why many constructed decks play such cards that have restrictions on use but cost less.  
-Note that this kind of effect typically loses card advantage.  
+Effects that trade material such as a card saying 'Destroy target creature' can remove higher cost cards. Spending this type of effect on small creatures can be a loss in tempo. This is why many constructed decks play such cards that have restrictions on use but cost less.  
+Tempo effects are powerful but often lose card advantage.  
 
 Timing matters:  
 > With few exceptions there are only 'sorcery' and 'instant' speeds, so named after card types.  
