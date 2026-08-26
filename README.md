@@ -96,7 +96,7 @@ The 'color pie' refers to mechanics specific to each color of mana, for example 
 > Life is a resource. In combat it allows you to ignore creatures attacking you, and some cards ask you to pay life as a cost. It's said that the only point of life that matters is the last one.
 
 One secondary resource is 'Tempo.'  
-> This roughly refers to cards that interfere with the board state. Tapping a creature can prevent it from attacking or blocking. Returning a creature to its owner's hand can do the same, with the added benefit that your opponent has to spend mana to get it back.
+> This roughly refers to cards that interfere with the board state. Tapping a creature can prevent it from attacking or blocking. Returning a creature to its owner's hand can do the same, with the added benefit that your opponent has to spend mana to get it back.  
 > Effects that trade material such as a card saying 'Destroy target creature' can remove higher cost cards. Spending this type of effect on small creatures can be a loss in tempo. This is why many constructed decks play such cards that have restrictions on use but cost less.  
 Note that this kind of effect typically loses card advantage.  
 
