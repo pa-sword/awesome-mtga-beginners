@@ -80,7 +80,7 @@ Ask questions - preferably with a screenshot
 Watch other players  
 Check tournament results  
 Capture and review your gameplay  
-[Review draft card data](17lands.com)  
+[Review draft card data](www.17lands.com)  
 
 <details>
 <summary>Game resources</summary>
